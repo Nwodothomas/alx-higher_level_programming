@@ -21,3 +21,4 @@ class Square extends PrevSquare {
 }
 
 module.exports = Square;
+
